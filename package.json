@@ -16,7 +16,7 @@
     "connect-redis": "^3.3.2",
     "crypto": "^1.0.1",
     "csv": "^2.0.0",
-    "csv-parse": "^2.0.0",
+    "csv-parse": "^4.9.0",
     "debug": "^2.6.8",
     "express": "^4.15.3",
     "express-ipfilter": "^0.3.1",
